@@ -1,0 +1,8 @@
+.hello {
+  color: red;
+  background: url(../img/example.svg);
+}
+
+body {
+  padding: 30px;
+}
